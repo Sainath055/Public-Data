@@ -1,0 +1,38 @@
+{
+  "title": "Terms & Conditions",
+  "lastUpdated": "2026-03-22",
+  "sections": [
+    {
+      "title": "1. Use of the App",
+      "content": "By using Roomie-Homie (“App”), you agree to use it only for lawful purposes. You may not:\n• Hack, misuse, or modify the App\n• Use others' accounts\n• Interfere with the App’s security or servers"
+    },
+    {
+      "title": "2. User Accounts",
+      "content": "You must sign in with Google Authentication. You are responsible for keeping your login secure. We may suspend accounts that violate the Terms."
+    },
+    {
+      "title": "3. Privacy",
+      "content": "By using the App, you agree to our Privacy Policy."
+    },
+    {
+      "title": "4. Intellectual Property",
+      "content": "All content belongs to the app developer. You may not reuse or redistribute any part of the App."
+    },
+    {
+      "title": "5. Disclaimer",
+      "content": "The App is provided “as is” without guarantees. We do not promise:\n• 100% uptime\n• Error-free performance\n• That it will meet your expectations"
+    },
+    {
+      "title": "6. Limitation of Liability",
+      "content": "We are not responsible for:\n• Loss of data\n• Unauthorized access\n• App downtime\n• Damages from using the App"
+    },
+    {
+      "title": "7. Changes to These Terms",
+      "content": "We may update these Terms anytime."
+    },
+    {
+      "title": "8. Contact",
+      "content": "For questions, contact: your@email.com"
+    }
+  ]
+}

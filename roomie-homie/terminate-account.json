@@ -1,0 +1,50 @@
+{
+  "title": "Terminate Account",
+  "lastUpdated": "2026-03-22",
+  "contactEmail": "nathsai055+dev@gmail.com",
+  "sections": [
+    {
+      "title": "What Happens When You Delete Your Account",
+      "content": "Deleting your Roomie-Homie account is permanent and irreversible. Once deleted, all your personal data will be removed according to the type of data and its association with rooms or tasks. Here is what happens when you delete your account:",
+      "items": [
+        "• Keys - Your keys and access data will be removed.",
+        "• Notes - All your personal notes will be permanently deleted.",
+        "• Tasks - Any tasks you created or were assigned to will be removed.",
+        "• Shopping - No changes will occur for shared shopping lists.",
+        "• Expenses - Your profile will remain visible as a 'Former Member' in shared expenses."
+      ]
+    },
+    {
+      "title": "How to Delete Your Account",
+      "icon-account-actions": "user-cog",
+      "content": "Account deletion can only be performed after leaving your current room. Follow these steps to safely delete your account:",
+      "steps": [
+        "Leave your current room by clearing your data as described above.",
+        "On the Introduction and Room Setup screen, click on the Account Actions button (⚙️ User Settings icon).",
+        "Select 'Terminate Account' from the menu and confirm the action when prompted.",
+        "Your account will be permanently deleted and you will be logged out."
+      ]
+    },
+    {
+      "title": "Partial Data Deletion",
+      "content": "Even if you leave a room without deleting your account, some data will be partially removed:",
+      "items": [
+        "• Keys - Removed upon leaving the room.",
+        "• Notes - Deleted when leaving the room.",
+        "• Tasks - Your solo tasks and tasks as assignee will be removed.",
+        "• Shopping - Remains unaffected.",
+        "• Expenses - Existing profile viewed as 'Former Member'."
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "content": "If you have questions or concerns about data deletion:",
+      "instructions": [
+        "Email: nathsai055+dev@gmail.com",
+        "Subject: Account Deletion Request",
+        "We will respond within 3 business days."
+      ]
+    }
+  ],
+  "footer": "⚠️ Note: Account deletion is irreversible. Make sure to backup any important data before proceeding."
+}

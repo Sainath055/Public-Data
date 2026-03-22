@@ -1,0 +1,13 @@
+{
+  "name": "Sainath Reddy",
+  "title": "Full Stack Developer",
+  "location": "Hyderabad, India",
+  "about": "I love building practical tools and modern mobile & web apps. Constantly learning, refining my craft, and improving every day.",
+  "avatarUrl": "https://github.com/sainath055.png",
+  "socialLinks": {
+    "mail": "nathsai055+dev@gmail.com",
+    "github": "https://github.com/sainath055",
+    "linkedin": "https://www.linkedin.com/in/sainath-reddy-055/",
+    "globe": "https://sainath-portfolio.netlify.app/"
+  }
+}
